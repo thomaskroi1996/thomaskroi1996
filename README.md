@@ -19,4 +19,8 @@ My name is Thomas Kroißenbrunner and I love programming! I first started to get
 
 Here are some of the projects I worked on: <br>
 <a href="https://github.com/ESMValGroup/ESMValTool">ESMValTool</href><br>
-<a href="https://gitlab.com/openCFS/cfs">openCFS</href>
+<a href="https://gitlab.com/openCFS/cfs">openCFS</href><br>
+<a href="https://github.com/precice/precice">preCICE</href><br>
+<a href="https://github.com/thomaskroi1996/openfoam-adapter">openFoam adapter for preCICE</href><br>
+
+Additionally you can find some experiments and projects I coded in my freetime. Some work, some not, but they were always a really great way to learn for me.
