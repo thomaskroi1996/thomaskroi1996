@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 My name is Thomas Kroißenbrunner and I love programming! I first started to get into it as a teenager, and then used it every now and then throught my Master's studies in Physics at the Technical University of Graz, in Austria. After graduating I got 2 jobs as a research assistant, which both relied heavily on programming. Ever since then I wanted to deepen my knowledge of different languages. I have been working in the fields of Climate Physics and Computational Fluid Dynamics, where I learned statistical methods as well as algorithms for managing, processing and analysing big chunks of data.
 
 Here are some of the projects I worked on: <br>
-<a href="https://github.com/ESMValGroup/ESMValTool">ESMValTool</href>
+<a href="https://github.com/ESMValGroup/ESMValTool">ESMValTool</href><br>
+<a href="https://gitlab.com/openCFS/cfs">openCFS</href>
