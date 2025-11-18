@@ -23,13 +23,17 @@ Here are some of the projects I worked on: <br>
 <a href="https://github.com/precice/precice">preCICE</href><br>
 <a href="https://github.com/thomaskroi1996/openfoam-adapter">openFoam adapter for preCICE</href><br>
 
+<img width="640" height="183" alt="ESMValTool-logo-2-glow" src="https://github.com/user-attachments/assets/9a29afa8-f112-4cec-8646-4b8965b08e2a"/>
+
+<img width="300" height="183" alt="opencfs_white_text" src="https://github.com/user-attachments/assets/640351c6-bd2f-468e-9b79-f350886cbb2b"/>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaskroi1996)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 Additionally you can find some experiments and projects I coded in my freetime. Some work, some not, but they were always a really great way to learn for me. <br>
 
 One big goal of mine is to deepen my knowledge of C++, and if possible, work in the field as a software engineer. 
 
-<img width="640" height="183" alt="ESMValTool-logo-2-glow" src="https://github.com/user-attachments/assets/9a29afa8-f112-4cec-8646-4b8965b08e2a"/>
 
-<img width="300" height="183" alt="opencfs_white_text" src="https://github.com/user-attachments/assets/640351c6-bd2f-468e-9b79-f350886cbb2b"/>
 
