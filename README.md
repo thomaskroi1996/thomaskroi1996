@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 <!--
 **thomaskroi1996/thomaskroi1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Thomas Kroißenbrunner and I love programming! I first started to get into it as a teenager, and then used it every now and then throught my Master's studies in Physics at the Technical University of Graz, in Austria. After graduating I got 2 jobs as a research assistant, which both relied heavily on programming. Ever since then I wanted to deepen my knowledge of different languages. I have been working in the fields of Climate Physics and Computational Fluid Dynamics, where I learned statistical methods as well as algorithms for managing, processing and analysing big chunks of data.
+My name is Thomas Kroißenbrunner and I love programming! I first started to get into it as a teenager, and then used it every now and then throughout my Master's studies in Physics at the Technical University of Graz, in Austria. After graduating I got 2 jobs as a research assistant, which both relied heavily on programming. Ever since then I wanted to deepen my knowledge of different languages. I have been working in the fields of Climate Physics and Computational Fluid Dynamics, where I learned statistical methods as well as algorithms for managing, processing and analysing big chunks of data.
+
+I am always on the lookout for making new contributions/learning new technologies, so if you want any help on your project, let me know! 
 
 Here are some of the projects I worked on: <br>
 <a href="https://github.com/ESMValGroup/ESMValTool">ESMValTool</href><br>
