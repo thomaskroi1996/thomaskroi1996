@@ -36,6 +36,7 @@ Here are some of the projects I worked on: <br>
 Additionally you can find some experiments and projects I coded in my freetime. Some work, some not, but they were always a really great way to learn for me. <br>
 
 One big goal of mine is to deepen my knowledge of C++, and if possible, work in the field as a software engineer. 
+Currently also grinding my way through Leetcode, which is a lot of fun! 
 
 
 
