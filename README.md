@@ -29,6 +29,9 @@ Here are some of the projects I worked on: <br>
 
 <img width="300" height="183" alt="opencfs_white_text" src="https://github.com/user-attachments/assets/640351c6-bd2f-468e-9b79-f350886cbb2b"/>
 
+https://codeberg.org/thomaskroi1996
+https://www.linkedin.com/in/thomaskroi1996/
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomaskroi1996)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
